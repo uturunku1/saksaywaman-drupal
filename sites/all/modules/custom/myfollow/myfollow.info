@@ -1,0 +1,6 @@
+name = Custom Follow
+description = adding links to other social networks
+package = custom module
+core = 7.x
+files[]= myfollow.module
+stylesheets[all][]= styles.css
